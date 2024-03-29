@@ -1,0 +1,39 @@
+{
+  "name": "agate-wind-singer",
+  "version": "1.0.0",
+  "description": "Provides a framework for automotive management and telematics, enhancing vehicle performance, safety, and connectivity.",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/knaraetkaerb/agate-wind-singer"
+  },
+  "author": "knaraetkaerb",
+  "license": "MIT",
+  "dependencies": {
+    "blocksage": "1.0.0",
+    "zolotaya-chasha-zolotaya": "1.0.0",
+    "tanzanite-fire-dancer": "1.0.0",
+    "bloodstone-heart-forger": "1.0.0",
+    "async": "1.0.0",
+    "body-parser": "1.0.0",
+    "ethereumjs-tx": "1.0.0",
+    "moment": "1.0.0",
+    "webpack": "1.0.0",
+    "ejs": "1.0.0",
+    "eslint": "1.0.0",
+    "pg": "1.0.0",
+    "solc": "1.0.0",
+    "cheerio": "1.0.0",
+    "underscore": "1.0.0",
+    "web3": "1.0.0",
+    "jsonwebtoken": "1.0.0",
+    "axios": "1.0.0",
+    "bcrypt": "1.0.0",
+    "passport": "1.0.0",
+    "fs-extra": "1.0.0",
+    "debug": "1.0.0"
+  }
+}
